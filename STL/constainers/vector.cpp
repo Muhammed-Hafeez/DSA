@@ -78,7 +78,6 @@ int main()
 
     // Clear all elements in `p1`
     p1.clear(); // p1 becomes empty
-
     return 0;
 }
 
