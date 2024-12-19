@@ -1,2 +1,5 @@
 *.exe
 /.vscode
+rsa-key.pub
+rsa-key
+/practice
